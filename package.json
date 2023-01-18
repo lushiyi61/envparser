@@ -1,5 +1,5 @@
 {
-  "name": "envparser",
+  "name": "envparsed",
   "version": "1.0.0",
   "description": "nodejs 下获取env文件的解决方案(typescript开发)",
   "main": "index.js",
