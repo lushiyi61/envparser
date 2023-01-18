@@ -1,8 +1,8 @@
 {
   "name": "envparsed",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "nodejs 下获取env文件的解决方案(typescript开发)",
-  "main": "index.js",
+  "main": "dist/index.js",
   "scripts": {
     "build": "tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
