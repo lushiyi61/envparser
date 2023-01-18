@@ -1,0 +1,30 @@
+{
+  "name": "envparser",
+  "version": "1.0.0",
+  "description": "nodejs 下获取env文件的解决方案(typescript开发)",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lushiyi61/envparser.git"
+  },
+  "keywords": [
+    "env"
+  ],
+  "author": "lushiyi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lushiyi61/envparser/issues"
+  },
+  "homepage": "https://github.com/lushiyi61/envparser#readme",
+  "devDependencies": {
+    "@types/node": "^18.11.18",
+    "typescript": "^4.9.4"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3"
+  }
+}
